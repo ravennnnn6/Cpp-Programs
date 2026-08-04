@@ -16,6 +16,8 @@ int main() {
       i++;
       cout << "prime\n";
     }
+
     return 0;
 
    }
+}
