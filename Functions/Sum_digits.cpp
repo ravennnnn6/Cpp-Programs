@@ -15,7 +15,7 @@ int sumOfDigits(int num) {
 
 
 int main(){
-    cout << "sum =" << sumOfDigits(1234) << endl;
+    cout << "sum = " << sumOfDigits(1234) << endl;
 
     return 0;
 }
